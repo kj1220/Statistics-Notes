@@ -1,0 +1,1 @@
+Began to work through both these textbooks but decided to focus on College Basketball models and MLOps courses instead over the winter. Will revisit this summer after taking GCP ML Engineering certification.
